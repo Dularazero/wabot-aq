@@ -1,7 +1,7 @@
 {
   "name": "wabot-aq",
   "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/Nurutomo/wabot-aq",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "repository": "https://github.com/Dularazero/wabot-aq",
+  "logo": "https://telegra.ph/file/cad7038fe82e47f79c609.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"]
 }
